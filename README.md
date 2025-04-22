@@ -2,7 +2,7 @@
 
 This project is a real-world recreation of a bomb defusal module from the game *Keep Talking and Nobody Explodes*.
 
-*Note: due to limited development time, some bomb modules and defusal rules are made by me and are not in original game.*
+*Note: due to limited development time, some bomb modules and defusal rules are made by me and are not in original game. Defusal manual in Lithuanian*
 
 Used hardware:
 * Arduino Mega
